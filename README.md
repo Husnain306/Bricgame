@@ -1,4 +1,4 @@
 # Bricgame
 This is my first Git Repostitory.
-/n
+\n
 My name is Husnain Ali.
